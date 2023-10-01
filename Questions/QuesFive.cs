@@ -28,5 +28,11 @@ namespace Questions
                 lblItems.Text += $"Name {allItems[i].ItemName} \t Description\t {allItems[i].Desription} \t\tPrice: ${allItems[i].Price} \n\n";
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Customer cus = new Customer();
+            cus.ShowDialog();
+        }
     }
 }

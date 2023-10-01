@@ -9,3 +9,4 @@ C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.csproj.CoreComp
 C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.exe
 C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.pdb
 C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.QuesFive.resources
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.Customer.resources
