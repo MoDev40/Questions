@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Questions\Questions\bin\Debug\Questions.exe.config
+C:\Users\hp\source\repos\Questions\Questions\bin\Debug\Questions.exe
+C:\Users\hp\source\repos\Questions\Questions\bin\Debug\Questions.pdb
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.Form1.resources
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.Properties.Resources.resources
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.exe
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.pdb
+C:\Users\hp\source\repos\Questions\Questions\obj\Debug\Questions.QuesFive.resources
